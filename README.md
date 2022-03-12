@@ -1,1 +1,2 @@
-<img src="https://img.shields.io/github/followers/S4T0RU.svg?style=social&label=Follow&maxAge=2592000">
+## Linguagens favoritas
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="150em">
