@@ -1,4 +1,1 @@
-<div>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api?username=S4T0RU&show_icons=true&theme=light"/>
-  <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4T0RU&layout=compact&theme=light"/>
-</div>
+[![Whatsapp](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n9KBKHPA3H)
